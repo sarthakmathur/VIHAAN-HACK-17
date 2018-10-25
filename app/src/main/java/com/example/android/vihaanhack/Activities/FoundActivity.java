@@ -90,6 +90,7 @@ public class FoundActivity extends AppCompatActivity implements View.OnClickList
 
 
         myKairos = new Kairos();
+        //found activity done
 
 // set authentication
 
